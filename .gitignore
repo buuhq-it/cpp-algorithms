@@ -1,0 +1,28 @@
+# Bỏ file biên dịch
+*.o
+*.out
+*.exe
+main
+
+# VSCode settings
+.vscode/
+
+# File tạm
+*.log
+*.tmp
+
+# Input/Output test files
+input.txt
+output.txt
+
+# MacOS system files (phòng trường hợp dùng chung với mac)
+.DS_Store
+
+# Ubuntu/WSL swap file (phòng trường hợp mở bằng nano/vim)
+*~
+
+# Nếu dùng Code Runner extension
+*.code-runner*
+
+# Nếu có thư mục build riêng
+/build/
