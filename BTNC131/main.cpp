@@ -26,6 +26,7 @@ vector<vector<string>> groupAnagrams(const map<string, vector<string>>& groups) 
         result.push_back(pair.second);
     }
     sort(result.begin(), result.end(), cmp);
+    
 
     // Sắp xếp theo số lượng từ trong nhóm (tăng dần)
     // sort(result.begin(), result.end(), [](const vector<string>& a, const vector<string>& b) {
