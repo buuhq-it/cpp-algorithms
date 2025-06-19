@@ -12,8 +12,8 @@ main
 *.tmp
 
 # Input/Output test files
-input.txt
-output.txt
+# input.txt
+# output.txt
 
 # MacOS system files (phòng trường hợp dùng chung với mac)
 .DS_Store
