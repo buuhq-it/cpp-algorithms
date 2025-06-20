@@ -12,6 +12,7 @@ void controlIO() {
 
 void input() {}
 void output() {}
+void outputTest() {}
 
 int main(){
     controlIO();

@@ -1,0 +1,3 @@
+Vi tri dau tien cua 3 trong mang A la 5
+Vi tri cuoi cung cua 3 trong mang A la 7
+Vi tri cua phan tu dau tien > 3 trong mang A la 8, gia tri 5
